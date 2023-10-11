@@ -9,7 +9,7 @@
 - Follow the setup instructions.
 
 ## Step 2: Create Launch Script
-- Create a file named `LaunchBitcoind.bat`, also available on this repository.
+- Create a file named `LaunchBitcoind.bat`, also available on this [repository](https://github.com/SonOfLiberty-99/pipewallet_setup/blob/master/LaunchBitcoind.bat).
 - Copy and paste the code below into the file:
 
 ```batch
@@ -45,7 +45,7 @@ endlocal
 ```
 - Replace `YOUR_USERNAME` and `YOUR_PASSWORD` with your own credentials.
 
-This modified file is also available in the config folder of this repository.
+This modified file is also available in the config folder of this [repository](https://github.com/SonOfLiberty-99/pipewallet_setup/blob/master/config/default.json).
 
 Now it's time to test all these things!
 
