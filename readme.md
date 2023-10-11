@@ -3,6 +3,7 @@
 ## Prerequisites:
 - Approximately 800GB of free space.
 - [NodeJS installed](https://nodejs.org/en/download).
+- Internet
 
 ## Step 1: Install Bitcoin Core Node
 - Download the [Bitcoin Core node](https://bitcoin.org/en/download) from the official website.
