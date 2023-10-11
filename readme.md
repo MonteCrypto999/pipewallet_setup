@@ -1,7 +1,7 @@
 # How to Set Up Your Pipe Wallet on Windows
 
 ## Prerequisites:
-- Approximately 800GB of free space.
+- Approximately 800GB of free space
 - [NodeJS installed](https://nodejs.org/en/download) (Download and follow the setup instructions)
 - Internet
 
@@ -23,7 +23,7 @@ start cmd.exe /k "bitcoind -txindex -server -rpcuser=%user% -rpcpassword=%pass% 
 endlocal
 ```
 
-- Replace `YOUR_USERNAME` and `YOUR_PASSWORD` with your own credentials.
+- Replace `YOUR_USERNAME` and `YOUR_PASSWORD` with your own credentials e.g. `PIPE` `12345PIPE`
 - Save the file and execute it by double-clicking. The node will sync with TX (this process may take around 2 days for a full sync).
 - Keep this window open to maintain a node always synced or re-launch it to sync again.
 
@@ -59,7 +59,7 @@ Now it's time to test all these things!
 node pipe.mjs walletcreate <walletname>
 ```
 
-Replace <walletname> with a name of your choice.
+Replace `<walletname>` with a name of your choice e.g. `MyWallet1`.
 If you see "Done indexing ...", congratulations! Your wallet is syncing.
 Wait for the syncing process to complete and you'll have your pipe wallet set up.
 
