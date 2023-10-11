@@ -1,0 +1,4 @@
+{
+  "bitcoin_cli_path": "\"C:\\Program Files\\Bitcoin\\daemon\\bitcoin-cli.exe\" -rpcuser=YOUR_USERNAME -rpcpassword=YOUR_PASSWORD",
+  "start_block": 809607
+}
